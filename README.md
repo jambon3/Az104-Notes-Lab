@@ -1,4 +1,4 @@
-# Jambon3-Az104-Greenmaze-landing-zone-Lab
+# Az104-Greenmaze-landing-zone-Lab
 
 Landing zone lab for GreenMaze.
 
